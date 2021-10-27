@@ -15,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://twitter.com/andrey_mutlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrey mutlu" height="30" width="40" /></a>
+<a href="https://fb.com/andreymutlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrey mutlu" height="30" width="40" /></a>
 <a href="https://instagram.com/andreymutlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andreymutlu" height="30" width="40" /></a>
 </p>
 <hr>
@@ -27,15 +29,13 @@
   <summary><b>Github Stats</b></summary>
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=aamutlu20&show_icons=true&theme=radical&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamutlu20&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
 <details>
   <summary><b>🏅 Badges</b></summary>
 
-<code><a href ="http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957"><img align="left" alt="Excel" width="200px" src="https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a></code>
+<code><a href ="https://www.credly.com/badges/70e9cabd-e4ff-467a-b2b1-a5e1bb90ea76"><img align="left" alt="Word" width="200px" src="https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
   
-  <code><a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
 </details>  
 
 <hr>
