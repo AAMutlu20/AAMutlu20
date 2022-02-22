@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrey Mutlu</h1>
 <h3 align="center">I am a student at PGKPI-Burgas.</h3>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAAMutlu20&count_bg=%2368FFEC&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamutlu20&label=Profile%20views&color=0e75b6&style=flat" alt="aamutlu20" /> </p>
 <img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/d4/a3/58/d4a358e311f3dd1e15bf6a91b1861f51.gif" />
 
 - 📜I’m currently learning **C++,HTML5 & CSS3**
