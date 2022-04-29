@@ -36,6 +36,8 @@
 
 <code><a href ="https://www.credly.com/badges/70e9cabd-e4ff-467a-b2b1-a5e1bb90ea76"><img align="left" alt="Word" width="200px" src="https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
   
+  <code><a href ="https://www.credly.com/earner/earned/badge/70692b8f-513c-47c0-a56a-d3441a217b0b"><img align="left" alt="JavaScript" width="200px" src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a></code>
+  
 </details>  
 
 <hr>
