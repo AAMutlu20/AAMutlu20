@@ -5,7 +5,7 @@
 
 <img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/d4/a3/58/d4a358e311f3dd1e15bf6a91b1861f51.gif" />
 
-- 📜I’m currently learning **C++,HTML5 & CSS3**
+- 📜I’m currently learning **C++,HTML5, CSS3 & Js**
 
 - 📫 How to reach me: **AAMutlu20@codingburgas.bg**
 
@@ -37,6 +37,8 @@
 <code><a href ="https://www.credly.com/badges/70e9cabd-e4ff-467a-b2b1-a5e1bb90ea76"><img align="left" alt="Word" width="200px" src="https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
   
  <code><a href ="https://www.credly.com/earner/earned/badge/70692b8f-513c-47c0-a56a-d3441a217b0b"><img align="left" alt="JavaScript" width="200px" src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a></code>
+  
+   <code><a href ="https://www.credly.com/earner/earned/badge/815b388b-ef00-4b39-b2fd-5cffbb21c40a"><img align="left" alt="Exel" width="200px" src="https://images.credly.com/size/340x340/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a></code>
   
 </details>  
 
