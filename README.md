@@ -40,6 +40,8 @@
   
    <code><a href ="https://www.credly.com/earner/earned/badge/815b388b-ef00-4b39-b2fd-5cffbb21c40a"><img align="left" alt="Exel" width="200px" src="https://images.credly.com/size/340x340/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a></code>
   
+  <code><a href ="https://www.credly.com/earner/earned/badge/815b388b-ef00-4b39-b2fd-5cffbb21c40a"><img align="left" alt="Exel" width="200px" src="https://images.credly.com/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" ></a></code>
+  
 </details>  
 
 <hr>
