@@ -5,7 +5,7 @@
 
 <img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/d4/a3/58/d4a358e311f3dd1e15bf6a91b1861f51.gif" />
 
-- 📜I’m currently learning **C++,HTML5, CSS3 & Js**
+- 📜I’m currently learning **C++ and C#**
 
 - 📫 How to reach me: **AAMutlu20@codingburgas.bg**
 
