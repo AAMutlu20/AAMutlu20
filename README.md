@@ -1,53 +1,84 @@
-<h1 align="center">Hi 👋, I'm Andrey Mutlu</h1>
-<h3 align="center">I am a student at PGKPI-Burgas.</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="150"/>
+</div>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAAMutlu20&count_bg=%2368FFEC&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false"/></a>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/andrey-mutlu-15147a274/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@tms_fear">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/TMS_Fear">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/d4/a3/58/d4a358e311f3dd1e15bf6a91b1861f51.gif" />
+<div id="view-counts" align="center">
+<img src="https://komarev.com/ghpvc/?username=AAMutlu20&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 📜I’m currently learning **C++ and C#**
-
-- 📫 How to reach me: **AAMutlu20@codingburgas.bg**
-
-- ⚡Fun fact: **I am very interested in game development.**
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/andrey_mutlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter_andrey mutlu" height="30" width="40" /></a>
-<a href="https://fb.com/andreymutlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook_andrey mutlu" height="30" width="40" /></a>
-<a href="https://instagram.com/andreymutlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram_andreymutlu" height="30" width="40" /></a>
-</p>
-<hr>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<hr>
-<details>	
-  <summary><b>Github Stats</b></summary>
-
-![Grade](https://github-readme-stats.vercel.app/api?username=aamutlu20&show_icons=true&theme=radical&count_private=true)
-</details>
-
-<details>
-  <summary><b>🏅 Badges</b></summary>
-
-<code><a href ="https://www.credly.com/badges/70e9cabd-e4ff-467a-b2b1-a5e1bb90ea76"><img align="left" alt="Word" width="200px" src="https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
-  
- <code><a href ="https://www.credly.com/earner/earned/badge/70692b8f-513c-47c0-a56a-d3441a217b0b"><img align="left" alt="JavaScript" width="200px" src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a></code>
-  
-   <code><a href ="https://www.credly.com/earner/earned/badge/815b388b-ef00-4b39-b2fd-5cffbb21c40a"><img align="left" alt="Exel" width="200px" src="https://images.credly.com/size/340x340/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a></code>
-  
-  <code><a href ="https://www.credly.com/earner/earned/badge/815b388b-ef00-4b39-b2fd-5cffbb21c40a"><img align="left" alt="HTML & CSS" width="200px" src="https://images.credly.com/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" ></a></code>
-  
-  <code><a href ="https://www.credly.com/earner/earned/badge/815b388b-ef00-4b39-b2fd-5cffbb21c40a"><img align="left" alt="Photoshop" width="200px" src="https://certiport.pearsonvue.com/getattachment/Certifications/Adobe/ACP/Badging/Photoshop/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.png?lang=en-US&width=601&height=601&ext=.png" ></a></code>
-  
-</details>  
-
-<hr>
+<div id="greetings" align="center">
+<h1>
+  Hello There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="600" height="300"/>
+</div>
 
-# If you want to be the best at something work HARD and NEVER give up!
+---
+
+### :man_technologist: About Me :
+I am a Student at VSCPI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Burgas, Bulgaria.
+
+- :telescope: I’m interested in game development and 3D modelling(enviroment and character creation).
+
+- :seedling: Currently learning WordPress.
+
+- :zap: In my free time, I develop some projects in Unreal Engine.
+
+- :mailbox:How to reach me: AAMutlu20@codingburgas.bg or trough my socials.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" **alt="Blender" width="40" height="40"/>
+  <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" **alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" **alt="Debian" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" **alt="Php" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Pyhon" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal Engine 4&5" **alt="Unreal Engine 4&5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS code" **alt="VS code" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" **alt="WordPress" width="40" height="40"/>
+   
+</div>
+
+---
+
+### :fire: My Stats : 
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AAMutlu20&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=00FFF7&dates=168ABB)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAMutlu20&layout=compact&theme=prussian&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :black_joker: Programming Joke of the Day :
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
+
