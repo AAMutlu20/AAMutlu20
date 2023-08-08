@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/andrey-mutlu-15147a274/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.credly.com/earner/earned">
+    <img src="https://img.shields.io/badge/Credly-orange?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
+  </a>
   <a href="https://www.youtube.com/@tms_fear">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -40,8 +43,9 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I develop some projects in Unreal Engine.
 
-- :mailbox:How to reach me: AAMutlu20@codingburgas.bg or trough my socials.
+- :mailbox: How to reach me: AAMutlu20@codingburgas.bg or through my socials.
 
+- :1st_place_medal: You can see all the badges I have earned trough my Cedly account.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
