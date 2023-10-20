@@ -45,7 +45,7 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :mailbox: How to reach me: AAMutlu20@codingburgas.bg or through my socials.
 
-- :1st_place_medal: You can see all the badges I have earned trough my Cedly account.
+- :1st_place_medal: You can see all the badges I have earned through my Cedly account.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -58,7 +58,7 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" **alt="Blender" width="40" height="40"/>
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" **alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" **alt="Debian" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
