@@ -70,6 +70,7 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" **alt="WordPress" width="40" height="40"/>
   <img src="https://i.postimg.cc/L8XYDNRN/aaaaaaa-removebg-preview.png" title="SolidWorks" **alt="SolidWorks" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MSSQL" **alt="MSSQL" width="40" height="40"/>
    
 </div>
 
