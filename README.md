@@ -37,9 +37,9 @@
 ### :man_technologist: About Me :
 I am a Student at VSCPI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Burgas, Bulgaria.
 
-- :telescope: I’m interested in game development and 3D modelling(enviroment and character creation).
+- :telescope: I’m interested in game and app development, website creation and 3D modelling.
 
-- :seedling: Currently learning WordPress.
+- :seedling: Currently learning Blender and Solidworks.
 
 - :zap: In my free time, I develop some projects in Unreal Engine.
 
