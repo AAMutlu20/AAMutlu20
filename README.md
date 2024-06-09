@@ -50,11 +50,18 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
 
 - :seedling: Currently learning Blender and Solidworks.
 
-- :zap: In my free time, I develop some projects in Unreal Engine.
-
-- :mailbox: How to reach me: AAMutlu20@codingburgas.bg or through my socials.
+- :zap: In my free time, I develop projects, play games and do sports(swimming mostly).
 
 - :1st_place_medal: You can see all the badges I have earned through my Cedly account.
+---
+
+### :mailbox: Reach me :
+<div>
+  <a href="mailto:andrey.a.mutlu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="AAMutlu20Gmail"/>
+  </a>
+</div>
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -229,6 +236,14 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   </a>
   <a href="https://www.cloudflare.com/">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" title="Cloudflare" **alt="Cloudflare"/>
+  </a>
+  <img src="" title="" **alt=""/>
+</div>
+
+### :bar_chart: Analytics : 
+<div>
+  <a href="analytics.google.com/analytics/web/">
+    <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" title="GoogleAnalytics" **alt="GoogleAnalytics" />
   </a>
   <img src="" title="" **alt=""/>
 </div>
