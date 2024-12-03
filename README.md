@@ -48,11 +48,11 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
 
 - :telescope: I’m interested in game and app development, website creation and 3D modelling.
 
-- :seedling: Currently learning Java.
+- :seedling: Currently learning Java and Godot.
 
-- :zap: In my free time, I develop projects, play games and do sports(swimming mostly).
+- :zap: In my free time, I develop projects, play games and do sports.
 
-- :1st_place_medal: You can see all the badges I have earned through my Cedly account.
+- :1st_place_medal: You can see all the badges I have earned through my Cedly account badge at the top of this README.md.
 ---
 
 ### :mailbox: Reach me :
