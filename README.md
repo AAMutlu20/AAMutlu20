@@ -86,9 +86,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" **alt="JavaScript"/>
   </a>
-  <a href="https://www.json.org/json-en.html">
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" title="Json" **alt="Json"/>
-  </a>
   <a href="https://www.php.net/docs.php">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP" **alt="PHP"/>
   </a>
@@ -98,6 +95,10 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <img src="" title="" **alt=""/>
 </div>
 
+### JSON : 
+  <a href="https://www.json.org/json-en.html">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" title="Json" **alt="Json"/>
+  </a>
 
 ### :man_technologist: IDE : 
 <div>
@@ -173,12 +174,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" title="Sass" **alt="Sass"/>
   </a>
-  <a href="https://www.unrealengine.com/">
-    <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" title="UnrealEngine" **alt="UnrealEngine"/>
-  </a>
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity" **alt="Unity"/>
-  </a>
   <a href="https://web3js.readthedocs.io/en/v1.3.0/">
     <img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" title="Web3 Js" **alt="Web3 Js"/>
   </a>
@@ -187,6 +182,14 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   </a>
   <img src="" title="" **alt=""/>
 </div>
+
+### :video_game: Game Engines :
+<a href="https://www.unrealengine.com/">
+    <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" title="UnrealEngine" **alt="UnrealEngine"/>
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity" **alt="Unity"/>
+  </a>
 
 
 ### :iphone: Mobile Frameworks : 
