@@ -330,8 +330,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
 ---
 
 ### :fire: My Stats : 
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AAMutlu20)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAMutlu20&layout=compact&theme=prussian&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
