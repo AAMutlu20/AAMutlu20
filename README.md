@@ -92,7 +92,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://docs.python.org/3/">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" **alt="Python"/>
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 ### JSON : 
