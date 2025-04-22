@@ -302,7 +302,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://www.arduino.cc/">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" title="Arduino" **alt="Arduino" />
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 ### :globe_with_meridians: Terminal : 
