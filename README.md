@@ -18,7 +18,7 @@
   <a href="https://twitter.com/TMS_Fear">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="[#](https://aamutlu-portfolio.azurewebsites.net/)">
+  <a href="https://aamutlu-portfolio.azurewebsites.net/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://tmsfear.itch.io/green-horizon">
