@@ -46,7 +46,7 @@
 ### :man_technologist: About Me :
 I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgxc3VsNngza3pkODBvZmJwaWY5OGs2bjFqc3FsYnRucm8yeGU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="20"> from Burgas, Bulgaria.
 
-- :telescope: I’m interested in game and app development, website creation and 3D modelling.
+- :telescope: I’m interested in game and app development, game design and 3D modelling.
 
 - :seedling: Currently learning Java and Godot.
 
