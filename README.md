@@ -128,7 +128,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VS Code" **alt="VS Code"/>
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 
@@ -188,6 +187,9 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   </a>
   <a href="https://unity.com/">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity" **alt="Unity"/>
+  </a>
+  <a href="https://godotengine.org/">
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" title="GodotEngine" **alt="GodotEngine"/>
   </a>
 
 
