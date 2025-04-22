@@ -178,7 +178,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://www.apachefriends.org/index.html">
     <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" title="XAMPP" **alt="XAMPP"/>
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 ### :video_game: Game Engines :
@@ -198,7 +197,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://flutter.dev/">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" title="Flutter" **alt="Flutter"/> 
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 
@@ -216,7 +214,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://www.solidworks.com/">
     <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" title="SolidWorks" **alt="SolidWorks"/>
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 ### :floppy_disk: Database : 
@@ -227,7 +224,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://www.microsoft.com/en-us/sql-server">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="MS SQL" **alt="MS SQL"/>
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 ### :cloud: Cloud : 
@@ -241,7 +237,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://www.cloudflare.com/">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" title="Cloudflare" **alt="Cloudflare"/>
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 ### :bar_chart: Analytics : 
@@ -249,7 +244,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="analytics.google.com/analytics/web/">
     <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" title="GoogleAnalytics" **alt="GoogleAnalytics" />
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 ### :keyboard: Office : 
@@ -275,7 +269,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://calendly.com/">
     <img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" title="Calendly" **alt="Calendly"/>
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 ### :desktop_computer: OS : 
@@ -301,7 +294,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://www.microsoft.com/en-us/windows">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows" **alt="Windows"/>
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 
@@ -324,7 +316,6 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
   <a href="https://docs.microsoft.com/en-us/powershell/">
     <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" title="PowerShell" **alt="PowerShell"/>
   </a>
-  <img src="" title="" **alt=""/>
 </div>
 
 
