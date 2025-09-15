@@ -48,7 +48,7 @@ I am a Student at VSCPI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3N
 
 - :telescope: I’m interested in game and app development, game design and 3D modelling.
 
-- :seedling: Currently learning Java and Godot.
+- :seedling: Currently learning Game Design and Unity.
 
 - :zap: In my free time, I develop projects, play games and do sports.
 
