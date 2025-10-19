@@ -53,6 +53,8 @@ I am a Student at Saxion <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3
 - :zap: In my free time, I develop projects, play games and do sports.
 
 - :1st_place_medal: You can see all the badges I have earned through my Cedly account badge at the top of this README.md.
+
+- :computer: Scroll down to my pinned projects to see my works!
 ---
 
 ### :mailbox: Reach me :
