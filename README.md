@@ -18,8 +18,8 @@
   <a href="https://twitter.com/TMS_Fear">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://aamutlu-portfolio.azurewebsites.net/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://europa.eu/europass/eportfolio/screen/share/eb9af1fc-1d30-4e6b-bac4-13c34a442818?lang=en">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="CV Badge"/>
   </a>
   <a href="https://tmsfear.itch.io/green-horizon">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
