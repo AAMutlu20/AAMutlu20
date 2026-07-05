@@ -46,9 +46,8 @@
 ### :man_technologist: About Me :
 I am a Student at Saxion <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgxc3VsNngza3pkODBvZmJwaWY5OGs2bjFqc3FsYnRucm8yeGU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="20"> from Burgas, Bulgaria.
 
-- :telescope: I’m interested in game and app development, game design and 3D modelling.
-
-- :seedling: Currently learning Game Design and Unity.
+- :telescope: I’m interested in game design, storytelling, 3D design and audio
+- :seedling: Currently learning Game Design, Unity and Cakewalk Next.
 
 - :zap: In my free time, I develop projects, play games and do sports.
 
